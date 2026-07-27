@@ -1,0 +1,9 @@
+[project]
+name = "stocklens-ai"
+version = "0.1.0"
+description = "Explainable stock research reports from market data and news"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
